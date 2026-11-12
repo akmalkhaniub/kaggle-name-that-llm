@@ -1,0 +1,16 @@
+{
+  "id": "akmalshahbaz/name-that-llm-tf-idf-stylometry-ensemble",
+  "title": "Name That LLM TF-IDF Stylometry Ensemble",
+  "code_file": "baseline_tfidf_stylometry_logreg.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [
+    "name-that-llm"
+  ],
+  "kernel_sources": []
+}
